@@ -5,6 +5,8 @@ If you want to run this code you must to add graphics.h header file in your code
 
 How to add graphics.h hedar file: [SEE_Videos](https://youtu.be/c7mJ0Qh9Dpk)
 
+if you are satisfied, please give me star. 
+
 ------------------------------------------------------------------------------------------------------------
 
 Project 1: Analog clock: [source code](https://github.com/me-badsha/C-Graphics-Project/blob/main/All%20Graphics%20Project%20Code/Analog%20clock.cpp)
